@@ -1,0 +1,29 @@
+{
+  "name": "paymebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start:dev": "nodemon src/paynet.js",
+    "start": "node src/paynet.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "imports": {
+    "#dictionary": "./src/models/dictionary/index.js",
+    "#modules/*": "./src/modules/*",
+    "#tools/*": "./src/tools/*",
+    "#getPaymeToken": "./src/tools/getPaymeToken.js",
+    "#payVerify": "./src/tools/payVerify.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "md5": "^2.3.0",
+    "node-telegram-bot-api": "^0.57.0",
+    "pg": "^8.7.3",
+    "puppeteer": "^15.3.2",
+    "sequelize": "^6.20.1"
+  }
+}

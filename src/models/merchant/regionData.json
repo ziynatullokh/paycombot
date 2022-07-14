@@ -1,0 +1,16 @@
+[
+    { "name_uz": "Toshkent", "name_ru": "Ташкент", "electricity_id" :"26", "gas_id": "1" }, 
+    { "name_uz": "Toshkent viloyati", "name_ru": "Ташкентская область", "electricity_id" :"27", "gas_id": "2" }, 
+    { "name_uz": "Andijon", "name_ru": "Андижан", "electricity_id" : "03", "gas_id": "7" }, 
+    { "name_uz": "Buxoro", "name_ru": "Бухара", "electricity_id" :"06", "gas_id": "11" }, 
+    { "name_uz": "Jizzax", "name_ru": "Джизак", "electricity_id" :"08", "gas_id": "4" }, 
+    { "name_uz": "Qashqadaryo", "name_ru": "Кашкадарья", "electricity_id" :"10", "gas_id": "9" }, 
+    { "name_uz": "Navoiy", "name_ru": "Навои", "electricity_id" :"12", "gas_id": "12" }, 
+    { "name_uz": "Namangan", "name_ru": "Наманган", "electricity_id" :"14", "gas_id": "8" }, 
+    { "name_uz": "Samarqand", "name_ru": "Самарканд", "electricity_id" :"18", "gas_id": "3" }, 
+    { "name_uz": "Surxondaryo", "name_ru": "Сурхандарья", "electricity_id" :"22", "gas_id": "10" }, 
+    { "name_uz": "Sirdaryo", "name_ru": "Сырдарья", "electricity_id" :"24", "gas_id": "5" }, 
+    { "name_uz": "Farg'ona", "name_ru": "Фергана", "electricity_id" :"30", "gas_id": "6" }, 
+    { "name_uz": "Xorazm", "name_ru": "Хорезм", "electricity_id" :"33", "gas_id": "14" }, 
+    { "name_uz": "Qoraqalpog'iston", "name_ru": "Каракалпакстан", "electricity_id" :"35", "gas_id": "13" }
+]

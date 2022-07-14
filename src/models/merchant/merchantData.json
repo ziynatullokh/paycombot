@@ -1,0 +1,12 @@
+[
+    {
+        "merchant_name":"electricity",
+        "merchant_id": "5a5dffd8687ee421a5c4b0e6",
+        "merchant_pay_type":"00"
+    },
+    {
+        "merchant_name":"gas",
+        "merchant_id": "599149dca87ade28c5f1d394",
+        "merchant_pay_type":"1"
+    }
+]

@@ -1,0 +1,2272 @@
+[
+    {
+        "region_name": "26280 - Алмазарский ЭП",
+        "region_code": "26280",
+        "filter": "26"
+    },
+    {
+        "region_name": "26264 - Бектемирский ЭП",
+        "region_code": "26264",
+        "filter": "26"
+    },
+    {
+        "region_name": "26273 - Мирабадский ЭП",
+        "region_code": "26273",
+        "filter": "26"
+    },
+    {
+        "region_name": "26269 - Мирзо-Улугбекский ЭП",
+        "region_code": "26269",
+        "filter": "26"
+    },
+    {
+        "region_name": "26283 - Сергелийский ЭП",
+        "region_code": "26283",
+        "filter": "26"
+    },
+    {
+        "region_name": "26262 - Учтепинский ЭП",
+        "region_code": "26262",
+        "filter": "26"
+    },
+    {
+        "region_name": "26290 - Яшнабадский ЭП",
+        "region_code": "26290",
+        "filter": "26"
+    },
+    {
+        "region_name": "26294 - Чиланзарский ЭП",
+        "region_code": "26294",
+        "filter": "26"
+    },
+    {
+        "region_name": "26277 - Шайхантахурский ЭП",
+        "region_code": "26277",
+        "filter": "26"
+    },
+    {
+        "region_name": "26266 - Юнусабадский ЭП",
+        "region_code": "26266",
+        "filter": "26"
+    },
+    {
+        "region_name": "26287 - Яккасарайский ЭП",
+        "region_code": "26287",
+        "filter": "26"
+    },
+    {
+        "region_name": "26292 - Янги хаёт ЭП",
+        "region_code": "26292",
+        "filter": "26"
+    },
+    {
+        "region_name": "27206 - Аккурганское ЭСП",
+        "region_code": "27206",
+        "filter": "27"
+    },
+    {
+        "region_name": "27404 - Алмалыкское ЭСП",
+        "region_code": "27404",
+        "filter": "27"
+    },
+    {
+        "region_name": "27407 - Ангренское ЭСП",
+        "region_code": "27407",
+        "filter": "27"
+    },
+    {
+        "region_name": "27415 - Ахангаран Гор ЭСП",
+        "region_code": "27415",
+        "filter": "27"
+    },
+    {
+        "region_name": "27212 - Ахангаранское ЭСП",
+        "region_code": "27212",
+        "filter": "27"
+    },
+    {
+        "region_name": "27413 - Бекабадское ЭСП",
+        "region_code": "27413",
+        "filter": "27"
+    },
+    {
+        "region_name": "27224 - Бостанлыкское ЭСП",
+        "region_code": "27224",
+        "filter": "27"
+    },
+    {
+        "region_name": "27228 - Букинское ЭСП",
+        "region_code": "27228",
+        "filter": "27"
+    },
+    {
+        "region_name": "27238 - Зангиатинское ЭСП",
+        "region_code": "27238",
+        "filter": "27"
+    },
+    {
+        "region_name": "27220 - Зафарское ЭСП",
+        "region_code": "27220",
+        "filter": "27"
+    },
+    {
+        "region_name": "27248 - Кибрайское ЭСП",
+        "region_code": "27248",
+        "filter": "27"
+    },
+    {
+        "region_name": "27233 - Куйичирчикское ЭСП",
+        "region_code": "27233",
+        "filter": "27"
+    },
+    {
+        "region_name": "27401 - Нурафшан Гор ЭСП",
+        "region_code": "27401",
+        "filter": "27"
+    },
+    {
+        "region_name": "27249 - Паркентское ЭСП",
+        "region_code": "27249",
+        "filter": "27"
+    },
+    {
+        "region_name": "27250 - Пскентское ЭСП",
+        "region_code": "27250",
+        "filter": "27"
+    },
+    {
+        "region_name": "27237 - Ташкентское ЭСП",
+        "region_code": "27237",
+        "filter": "27"
+    },
+    {
+        "region_name": "27253 - Уртачирчикское ЭСП",
+        "region_code": "27253",
+        "filter": "27"
+    },
+    {
+        "region_name": "27256 - Чиназское ЭСП",
+        "region_code": "27256",
+        "filter": "27"
+    },
+    {
+        "region_name": "27419 - Чирчикское ЭСП",
+        "region_code": "27419",
+        "filter": "27"
+    },
+    {
+        "region_name": "27239 - Юкоричирчикское ЭСП",
+        "region_code": "27239",
+        "filter": "27"
+    },
+    {
+        "region_name": "27424 - Янгиюль Гор ЭСП",
+        "region_code": "27424",
+        "filter": "27"
+    },
+    {
+        "region_name": "27259 - Янгиюльское ЭСП",
+        "region_code": "27259",
+        "filter": "27"
+    },
+    {
+        "region_name": "03202 - Алтынкульское ЭСП",
+        "region_code": "03202",
+        "filter": "03"
+    },
+    {
+        "region_name": "03403 - Андижан Бобур ГорЭСП",
+        "region_code": "03403",
+        "filter": "03"
+    },
+    {
+        "region_name": "03400 - Андижан Энергосотиш",
+        "region_code": "03400",
+        "filter": "03"
+    },
+    {
+        "region_name": "03404 - Андижан эски ГорЭСП",
+        "region_code": "03404",
+        "filter": "03"
+    },
+    {
+        "region_name": "03401 - Андижан янги ГорЭСП",
+        "region_code": "03401",
+        "filter": "03"
+    },
+    {
+        "region_name": "03203 - Андижанское ЭСП",
+        "region_code": "03203",
+        "filter": "03"
+    },
+    {
+        "region_name": "03405 - Асака ГорЭСП",
+        "region_code": "03405",
+        "filter": "03"
+    },
+    {
+        "region_name": "03224 - Асакинское ЭСП",
+        "region_code": "03224",
+        "filter": "03"
+    },
+    {
+        "region_name": "03206 - Балыкчинское ЭСП",
+        "region_code": "03206",
+        "filter": "03"
+    },
+    {
+        "region_name": "03209 - Бустонское ЭСП",
+        "region_code": "03209",
+        "filter": "03"
+    },
+    {
+        "region_name": "03210 - Булакбашинское ЭСП",
+        "region_code": "03210",
+        "filter": "03"
+    },
+    {
+        "region_name": "03211 - Джалалкудукское ЭСП",
+        "region_code": "03211",
+        "filter": "03"
+    },
+    {
+        "region_name": "03214 - Избасканское ЭСП",
+        "region_code": "03214",
+        "filter": "03"
+    },
+    {
+        "region_name": "03204 - Куйганёрский ЭСП",
+        "region_code": "03204",
+        "filter": "03"
+    },
+    {
+        "region_name": "03220 - Кургантепинское ЭСП",
+        "region_code": "03220",
+        "filter": "03"
+    },
+    {
+        "region_name": "03227 - Мархаматское ЭСП",
+        "region_code": "03227",
+        "filter": "03"
+    },
+    {
+        "region_name": "03232 - Пахтаабадское ЭСП",
+        "region_code": "03232",
+        "filter": "03"
+    },
+    {
+        "region_name": "03217 - Улугноpское ЭСП",
+        "region_code": "03217",
+        "filter": "03"
+    },
+    {
+        "region_name": "03408 - Ханабад ГорЭСП",
+        "region_code": "03408",
+        "filter": "03"
+    },
+    {
+        "region_name": "03236 - Ходжаабадское ЭСП",
+        "region_code": "03236",
+        "filter": "03"
+    },
+    {
+        "region_name": "03207 - Чинабадское ЭСП",
+        "region_code": "03207",
+        "filter": "03"
+    },
+    {
+        "region_name": "03231 - Шахрихан ГорЭСП",
+        "region_code": "03231",
+        "filter": "03"
+    },
+    {
+        "region_name": "03230 - Шахриханское ЭСП",
+        "region_code": "03230",
+        "filter": "03"
+    },
+    {
+        "region_name": "06204 - Алатское ЭСП",
+        "region_code": "06204",
+        "filter": "06"
+    },
+    {
+        "region_name": "06401 - Бухара ГорЭСП",
+        "region_code": "06401",
+        "filter": "06"
+    },
+    {
+        "region_name": "06400 - Бухара Энергосотиш",
+        "region_code": "06400",
+        "filter": "06"
+    },
+    {
+        "region_name": "06500 - Бухара Энергосотиш",
+        "region_code": "06500",
+        "filter": "06"
+    },
+    {
+        "region_name": "06207 - Бухарское ЭСП",
+        "region_code": "06207",
+        "filter": "06"
+    },
+    {
+        "region_name": "06212 - Вабкентское ЭСП",
+        "region_code": "06212",
+        "filter": "06"
+    },
+    {
+        "region_name": "06215 - Гиждуванское ЭСП",
+        "region_code": "06215",
+        "filter": "06"
+    },
+    {
+        "region_name": "06246 - Жондоpское ЭСП",
+        "region_code": "06246",
+        "filter": "06"
+    },
+    {
+        "region_name": "06219 - Каганское ЭСП",
+        "region_code": "06219",
+        "filter": "06"
+    },
+    {
+        "region_name": "06230 - Каракульское ЭСП",
+        "region_code": "06230",
+        "filter": "06"
+    },
+    {
+        "region_name": "06232 - Караулбазарское ЭСП",
+        "region_code": "06232",
+        "filter": "06"
+    },
+    {
+        "region_name": "06240 - Пешкунское ЭСП",
+        "region_code": "06240",
+        "filter": "06"
+    },
+    {
+        "region_name": "06242 - Ромитанское ЭСП",
+        "region_code": "06242",
+        "filter": "06"
+    },
+    {
+        "region_name": "06258 - Шафирканское ЭСП",
+        "region_code": "06258",
+        "filter": "06"
+    },
+    {
+        "region_name": "08201 - Арнасайское ЭСП",
+        "region_code": "08201",
+        "filter": "08"
+    },
+    {
+        "region_name": "08204 - Бахмальское ЭСП",
+        "region_code": "08204",
+        "filter": "08"
+    },
+    {
+        "region_name": "08209 - Галляаральское ЭСП",
+        "region_code": "08209",
+        "filter": "08"
+    },
+    {
+        "region_name": "08402 - Джизак ГорЭСП",
+        "region_code": "08402",
+        "filter": "08"
+    },
+    {
+        "region_name": "08400 - Джизак Энергосотиш",
+        "region_code": "08400",
+        "filter": "08"
+    },
+    {
+        "region_name": "08212 - Шараф Рашидовское ЭСП",
+        "region_code": "08212",
+        "filter": "08"
+    },
+    {
+        "region_name": "08215 - Дустликское ЭСП",
+        "region_code": "08215",
+        "filter": "08"
+    },
+    {
+        "region_name": "08218 - Зааминское ЭСП",
+        "region_code": "08218",
+        "filter": "08"
+    },
+    {
+        "region_name": "08220 - Зарбдорское ЭСП",
+        "region_code": "08220",
+        "filter": "08"
+    },
+    {
+        "region_name": "08225 - Зафарабадское ЭСП",
+        "region_code": "08225",
+        "filter": "08"
+    },
+    {
+        "region_name": "08223 - Мирзачульское ЭСП",
+        "region_code": "08223",
+        "filter": "08"
+    },
+    {
+        "region_name": "08228 - Пахтакорское ЭСП",
+        "region_code": "08228",
+        "filter": "08"
+    },
+    {
+        "region_name": "08235 - Фаришское ЭСП",
+        "region_code": "08235",
+        "filter": "08"
+    },
+    {
+        "region_name": "08237 - Янгиободское ЭСП",
+        "region_code": "08237",
+        "filter": "08"
+    },
+    {
+        "region_name": "10231 - Бахористанское ЭСП",
+        "region_code": "10231",
+        "filter": "10"
+    },
+    {
+        "region_name": "10207 - Гузарское ЭСП",
+        "region_code": "10207",
+        "filter": "10"
+    },
+    {
+        "region_name": "10212 - Дехканабадское ЭСП",
+        "region_code": "10212",
+        "filter": "10"
+    },
+    {
+        "region_name": "10220 - Камашинское ЭСП",
+        "region_code": "10220",
+        "filter": "10"
+    },
+    {
+        "region_name": "10401 - Карши ГорЭСП",
+        "region_code": "10401",
+        "filter": "10"
+    },
+    {
+        "region_name": "10500 - Карши Энергосотиш",
+        "region_code": "10500",
+        "filter": "10"
+    },
+    {
+        "region_name": "10400 - Карши Энергосотиш",
+        "region_code": "10400",
+        "filter": "10"
+    },
+    {
+        "region_name": "10224 - Каршинское ЭСП",
+        "region_code": "10224",
+        "filter": "10"
+    },
+    {
+        "region_name": "10229 - Касанское ЭСП",
+        "region_code": "10229",
+        "filter": "10"
+    },
+    {
+        "region_name": "10237 - Касбинское ЭСП",
+        "region_code": "10237",
+        "filter": "10"
+    },
+    {
+        "region_name": "10232 - Китабское ЭСП",
+        "region_code": "10232",
+        "filter": "10"
+    },
+    {
+        "region_name": "10233 - Миришкорское ЭСП",
+        "region_code": "10233",
+        "filter": "10"
+    },
+    {
+        "region_name": "10234 - Мубарекское ЭСП",
+        "region_code": "10234",
+        "filter": "10"
+    },
+    {
+        "region_name": "10235 - Нишанское ЭСП",
+        "region_code": "10235",
+        "filter": "10"
+    },
+    {
+        "region_name": "10242 - Чиракчинское ЭСП",
+        "region_code": "10242",
+        "filter": "10"
+    },
+    {
+        "region_name": "10246 - Шахрисабз ГорЭСП",
+        "region_code": "10246",
+        "filter": "10"
+    },
+    {
+        "region_name": "10245 - Шахрисабзское ЭСП",
+        "region_code": "10245",
+        "filter": "10"
+    },
+    {
+        "region_name": "10250 - Яккабагское ЭСП",
+        "region_code": "10250",
+        "filter": "10"
+    },
+    {
+        "region_name": "12408 - Зарафшан ГорЭСП",
+        "region_code": "12408",
+        "filter": "12"
+    },
+    {
+        "region_name": "12211 - Канимехское ЭСП",
+        "region_code": "12211",
+        "filter": "12"
+    },
+    {
+        "region_name": "12234 - Карманинское ЭСП",
+        "region_code": "12234",
+        "filter": "12"
+    },
+    {
+        "region_name": "12216 - Кызылтепинское ЭСП",
+        "region_code": "12216",
+        "filter": "12"
+    },
+    {
+        "region_name": "12230 - Навбахорское ЭСП",
+        "region_code": "12230",
+        "filter": "12"
+    },
+    {
+        "region_name": "12401 - Навои ГорЭСП",
+        "region_code": "12401",
+        "filter": "12"
+    },
+    {
+        "region_name": "12402 - Навои Энергосотиш",
+        "region_code": "12402",
+        "filter": "12"
+    },
+    {
+        "region_name": "12400 - Навои Энергосотиш",
+        "region_code": "12400",
+        "filter": "12"
+    },
+    {
+        "region_name": "12238 - Нуратинское ЭСП",
+        "region_code": "12238",
+        "filter": "12"
+    },
+    {
+        "region_name": "12244 - Тамдынское ЭСП",
+        "region_code": "12244",
+        "filter": "12"
+    },
+    {
+        "region_name": "12248 - Учкудукское ЭСП",
+        "region_code": "12248",
+        "filter": "12"
+    },
+    {
+        "region_name": "12251 - Хатырчинское ЭСП",
+        "region_code": "12251",
+        "filter": "12"
+    },
+    {
+        "region_name": "14207 - Касансайское ЭСП",
+        "region_code": "14207",
+        "filter": "14"
+    },
+    {
+        "region_name": "14204 - Мингбулакское ЭСП",
+        "region_code": "14204",
+        "filter": "14"
+    },
+    {
+        "region_name": "14405 - Наманган Истикбол ЭСП",
+        "region_code": "14405",
+        "filter": "14"
+    },
+    {
+        "region_name": "14401 - Наманган ш. Марказ-2 ЭСП",
+        "region_code": "14401",
+        "filter": "14"
+    },
+    {
+        "region_name": "14402 - Наманган Давлатобод ГорЭСП",
+        "region_code": "14402",
+        "filter": "14"
+    },
+    {
+        "region_name": "14403 - Наманган Энергосотиш",
+        "region_code": "14403",
+        "filter": "14"
+    },
+    {
+        "region_name": "14404 - Наманган ш. Марказ ЭСП",
+        "region_code": "14404",
+        "filter": "14"
+    },
+    {
+        "region_name": "14212 - Наманганское ЭСП",
+        "region_code": "14212",
+        "filter": "14"
+    },
+    {
+        "region_name": "14216 - Нарынское ЭСП",
+        "region_code": "14216",
+        "filter": "14"
+    },
+    {
+        "region_name": "14219 - Папское ЭСП",
+        "region_code": "14219",
+        "filter": "14"
+    },
+    {
+        "region_name": "14224 - Туракурганское ЭСП",
+        "region_code": "14224",
+        "filter": "14"
+    },
+    {
+        "region_name": "14229 - Уйчинское ЭСП",
+        "region_code": "14229",
+        "filter": "14"
+    },
+    {
+        "region_name": "14234 - Учкурганское ЭСП",
+        "region_code": "14234",
+        "filter": "14"
+    },
+    {
+        "region_name": "14236 - Чартакское ЭСП",
+        "region_code": "14236",
+        "filter": "14"
+    },
+    {
+        "region_name": "14237 - Чустское ЭСП",
+        "region_code": "14237",
+        "filter": "14"
+    },
+    {
+        "region_name": "14242 - Янгикурганское ЭСП",
+        "region_code": "14242",
+        "filter": "14"
+    },
+    {
+        "region_name": "18203 - Акдарьинское ЭСП",
+        "region_code": "18203",
+        "filter": "18"
+    },
+    {
+        "region_name": "18408 - Багишамальское ЭСП",
+        "region_code": "18408",
+        "filter": "18"
+    },
+    {
+        "region_name": "18206 - Булунгурское ЭСП",
+        "region_code": "18206",
+        "filter": "18"
+    },
+    {
+        "region_name": "18228 - Гузалкентское  ЭСП",
+        "region_code": "18228",
+        "filter": "18"
+    },
+    {
+        "region_name": "18237 - Дехканобадское ЭСП",
+        "region_code": "18237",
+        "filter": "18"
+    },
+    {
+        "region_name": "18239 - Дехканабадское ЭСП",
+        "region_code": "18239",
+        "filter": "18"
+    },
+    {
+        "region_name": "18209 - Джамбайское ЭСП",
+        "region_code": "18209",
+        "filter": "18"
+    },
+    {
+        "region_name": "18233 - Дустликское ЭСП",
+        "region_code": "18233",
+        "filter": "18"
+    },
+    {
+        "region_name": "18234 - Зарафшанское ЭСП",
+        "region_code": "18234",
+        "filter": "18"
+    },
+    {
+        "region_name": "18212 - Иштыханское ЭСП",
+        "region_code": "18212",
+        "filter": "18"
+    },
+    {
+        "region_name": "18214 - Карадарьинское ЭСП",
+        "region_code": "18214",
+        "filter": "18"
+    },
+    {
+        "region_name": "18215 - Каттакурганское ЭСП",
+        "region_code": "18215",
+        "filter": "18"
+    },
+    {
+        "region_name": "18216 - Кошрабадское ЭСП",
+        "region_code": "18216",
+        "filter": "18"
+    },
+    {
+        "region_name": "18218 - Нарпайское ЭСП",
+        "region_code": "18218",
+        "filter": "18"
+    },
+    {
+        "region_name": "18235 - Нурабадское ЭСП",
+        "region_code": "18235",
+        "filter": "18"
+    },
+    {
+        "region_name": "18224 - Пайарыкское ЭСП",
+        "region_code": "18224",
+        "filter": "18"
+    },
+    {
+        "region_name": "18227 - Пастдаргомское ЭСП",
+        "region_code": "18227",
+        "filter": "18"
+    },
+    {
+        "region_name": "18230 - Пахтачийское ЭСП",
+        "region_code": "18230",
+        "filter": "18"
+    },
+    {
+        "region_name": "18400 - Самарканд Энергосотиш",
+        "region_code": "18400",
+        "filter": "18"
+    },
+    {
+        "region_name": "18407 - Сиабское ЭСП",
+        "region_code": "18407",
+        "filter": "18"
+    },
+    {
+        "region_name": "18238 - Тайлякское ЭСП",
+        "region_code": "18238",
+        "filter": "18"
+    },
+    {
+        "region_name": "18405 - Темирйульское ЭСП",
+        "region_code": "18405",
+        "filter": "18"
+    },
+    {
+        "region_name": "18236 - Ургутское ЭСП",
+        "region_code": "18236",
+        "filter": "18"
+    },
+    {
+        "region_name": "18225 - Челекское ЭСП",
+        "region_code": "18225",
+        "filter": "18"
+    },
+    {
+        "region_name": "18226 - Челекское ЭСП",
+        "region_code": "18226",
+        "filter": "18"
+    },
+    {
+        "region_name": "22201 - Алтынсайское ЭСП",
+        "region_code": "22201",
+        "filter": "22"
+    },
+    {
+        "region_name": "22202 - Ангорское ЭСП",
+        "region_code": "22202",
+        "filter": "22"
+    },
+    {
+        "region_name": "22204 - Байсунское ЭСП",
+        "region_code": "22204",
+        "filter": "22"
+    },
+    {
+        "region_name": "22206 - Бандиханское ЭСП",
+        "region_code": "22206",
+        "filter": "22"
+    },
+    {
+        "region_name": "22211 - Денауский ГорЭСП",
+        "region_code": "22211",
+        "filter": "22"
+    },
+    {
+        "region_name": "22210 - Денауское ЭСП",
+        "region_code": "22210",
+        "filter": "22"
+    },
+    {
+        "region_name": "22212 - Джаркурганское ЭСП",
+        "region_code": "22212",
+        "filter": "22"
+    },
+    {
+        "region_name": "22215 - Кизирикское ЭСП",
+        "region_code": "22215",
+        "filter": "22"
+    },
+    {
+        "region_name": "22214 - Кумкурганское ЭСП",
+        "region_code": "22214",
+        "filter": "22"
+    },
+    {
+        "region_name": "22207 - Музрабадское ЭСП",
+        "region_code": "22207",
+        "filter": "22"
+    },
+    {
+        "region_name": "22217 - Сариасийское ЭСП",
+        "region_code": "22217",
+        "filter": "22"
+    },
+    {
+        "region_name": "22400 - Сурхандарья Энергосотиш",
+        "region_code": "22400",
+        "filter": "22"
+    },
+    {
+        "region_name": "22401 - Термез ГорЭСП",
+        "region_code": "22401",
+        "filter": "22"
+    },
+    {
+        "region_name": "22220 - Термезское ЭСП",
+        "region_code": "22220",
+        "filter": "22"
+    },
+    {
+        "region_name": "22221 - Узунское ЭСП",
+        "region_code": "22221",
+        "filter": "22"
+    },
+    {
+        "region_name": "22223 - Шерабадское ЭСП",
+        "region_code": "22223",
+        "filter": "22"
+    },
+    {
+        "region_name": "22226 - Шурчинское ЭСП",
+        "region_code": "22226",
+        "filter": "22"
+    },
+    {
+        "region_name": "24206 - Акалтынское ЭСП",
+        "region_code": "24206",
+        "filter": "24"
+    },
+    {
+        "region_name": "24212 - Баяутское ЭСП",
+        "region_code": "24212",
+        "filter": "24"
+    },
+    {
+        "region_name": "24401 - Гулистан ГорЭСП",
+        "region_code": "24401",
+        "filter": "24"
+    },
+    {
+        "region_name": "24220 - Гулистанское ЭСП",
+        "region_code": "24220",
+        "filter": "24"
+    },
+    {
+        "region_name": "24228 - Мирзаабадское ЭСП",
+        "region_code": "24228",
+        "filter": "24"
+    },
+    {
+        "region_name": "24216 - Сайхунабадское ЭСП",
+        "region_code": "24216",
+        "filter": "24"
+    },
+    {
+        "region_name": "24226 - Сардобское ЭСП",
+        "region_code": "24226",
+        "filter": "24"
+    },
+    {
+        "region_name": "24402 - Сырдарья Энергосотиш",
+        "region_code": "24402",
+        "filter": "24"
+    },
+    {
+        "region_name": "24231 - Сырдарьинское ЭСП",
+        "region_code": "24231",
+        "filter": "24"
+    },
+    {
+        "region_name": "24235 - Хавастское ЭСП",
+        "region_code": "24235",
+        "filter": "24"
+    },
+    {
+        "region_name": "24410 - Шиpин ГорЭСП",
+        "region_code": "24410",
+        "filter": "24"
+    },
+    {
+        "region_name": "24413 - Янгиеp ГорЭСП",
+        "region_code": "24413",
+        "filter": "24"
+    },
+    {
+        "region_name": "30203 - Алтыарыкское ЭСП",
+        "region_code": "30203",
+        "filter": "30"
+    },
+    {
+        "region_name": "30209 - Багдадское ЭСП",
+        "region_code": "30209",
+        "filter": "30"
+    },
+    {
+        "region_name": "30215 - Бешарыкское ЭСП",
+        "region_code": "30215",
+        "filter": "30"
+    },
+    {
+        "region_name": "30212 - Бувайдинское ЭСП",
+        "region_code": "30212",
+        "filter": "30"
+    },
+    {
+        "region_name": "30236 - Дангаринское ЭСП",
+        "region_code": "30236",
+        "filter": "30"
+    },
+    {
+        "region_name": "30402 - Киргулинское ЭСП",
+        "region_code": "30402",
+        "filter": "30"
+    },
+    {
+        "region_name": "30403 - Киргулинское ЭСП",
+        "region_code": "30403",
+        "filter": "30"
+    },
+    {
+        "region_name": "30405 - Коканд ГорЭСП",
+        "region_code": "30405",
+        "filter": "30"
+    },
+    {
+        "region_name": "30408 - Кувасай ГорЭСП",
+        "region_code": "30408",
+        "filter": "30"
+    },
+    {
+        "region_name": "30218 - Кувинское ЭСП",
+        "region_code": "30218",
+        "filter": "30"
+    },
+    {
+        "region_name": "30206 - Куштепинское ЭСП",
+        "region_code": "30206",
+        "filter": "30"
+    },
+    {
+        "region_name": "30412 - Маpгилан ГорЭСП",
+        "region_code": "30412",
+        "filter": "30"
+    },
+    {
+        "region_name": "30224 - Риштанское ЭСП",
+        "region_code": "30224",
+        "filter": "30"
+    },
+    {
+        "region_name": "30226 - Сохское ЭСП",
+        "region_code": "30226",
+        "filter": "30"
+    },
+    {
+        "region_name": "30227 - Ташлакское ЭСП",
+        "region_code": "30227",
+        "filter": "30"
+    },
+    {
+        "region_name": "30230 - Узбекистанское ЭСП",
+        "region_code": "30230",
+        "filter": "30"
+    },
+    {
+        "region_name": "30221 - Учкуприкское ЭСП",
+        "region_code": "30221",
+        "filter": "30"
+    },
+    {
+        "region_name": "30401 - Фергана ГорЭСП",
+        "region_code": "30401",
+        "filter": "30"
+    },
+    {
+        "region_name": "30400 - Фергана Энергосотиш",
+        "region_code": "30400",
+        "filter": "30"
+    },
+    {
+        "region_name": "30233 - Ферганское ЭСП",
+        "region_code": "30233",
+        "filter": "30"
+    },
+    {
+        "region_name": "30238 - Фуркатское ЭСП",
+        "region_code": "30238",
+        "filter": "30"
+    },
+    {
+        "region_name": "30242 - Язъяванское ЭСП",
+        "region_code": "30242",
+        "filter": "30"
+    },
+    {
+        "region_name": "33204 - Багатское ЭСП",
+        "region_code": "33204",
+        "filter": "33"
+    },
+    {
+        "region_name": "33208 - Гурленское ЭСП",
+        "region_code": "33208",
+        "filter": "33"
+    },
+    {
+        "region_name": "33212 - Кошкупырское ЭСП",
+        "region_code": "33212",
+        "filter": "33"
+    },
+    {
+        "region_name": "33402 - Питняк ГорЭСП",
+        "region_code": "33402",
+        "filter": "33"
+    },
+    {
+        "region_name": "33401 - Ургенч ГорЭСП",
+        "region_code": "33401",
+        "filter": "33"
+    },
+    {
+        "region_name": "33217 - Ургенчское ЭСП",
+        "region_code": "33217",
+        "filter": "33"
+    },
+    {
+        "region_name": "33220 - Хазараспское ЭСП",
+        "region_code": "33220",
+        "filter": "33"
+    },
+    {
+        "region_name": "33223 - Ханкинское ЭСП",
+        "region_code": "33223",
+        "filter": "33"
+    },
+    {
+        "region_name": "33406 - Хива ГорЭСП",
+        "region_code": "33406",
+        "filter": "33"
+    },
+    {
+        "region_name": "33226 - Хивинское ЭСП",
+        "region_code": "33226",
+        "filter": "33"
+    },
+    {
+        "region_name": "33400 - Хорезм Энергосотиш",
+        "region_code": "33400",
+        "filter": "33"
+    },
+    {
+        "region_name": "33230 - Шаватское ЭСП",
+        "region_code": "33230",
+        "filter": "33"
+    },
+    {
+        "region_name": "33233 - Янгиарыкское ЭСП",
+        "region_code": "33233",
+        "filter": "33"
+    },
+    {
+        "region_name": "33236 - Янгибазарское ЭСП",
+        "region_code": "33236",
+        "filter": "33"
+    },
+    {
+        "region_name": "35204 - Амударьинское ЭСП",
+        "region_code": "35204",
+        "filter": "35"
+    },
+    {
+        "region_name": "35207 - Берунийское ЭСП",
+        "region_code": "35207",
+        "filter": "35"
+    },
+    {
+        "region_name": "35214 - Бузатауское ЭСП",
+        "region_code": "35214",
+        "filter": "35"
+    },
+    {
+        "region_name": "35218 - Канлыкульское ЭСП",
+        "region_code": "35218",
+        "filter": "35"
+    },
+    {
+        "region_name": "35211 - Караузякское ЭСП",
+        "region_code": "35211",
+        "filter": "35"
+    },
+    {
+        "region_name": "35212 - Кегейлийское ЭСП",
+        "region_code": "35212",
+        "filter": "35"
+    },
+    {
+        "region_name": "35215 - Кунградское ЭСП",
+        "region_code": "35215",
+        "filter": "35"
+    },
+    {
+        "region_name": "35222 - Муйнакское ЭСП",
+        "region_code": "35222",
+        "filter": "35"
+    },
+    {
+        "region_name": "35401 - Нукус ГорЭСП",
+        "region_code": "35401",
+        "filter": "35"
+    },
+    {
+        "region_name": "35225 - Нукусское ЭСП",
+        "region_code": "35225",
+        "filter": "35"
+    },
+    {
+        "region_name": "35410 - Тахиаташ ГорЭСП",
+        "region_code": "35410",
+        "filter": "35"
+    },
+    {
+        "region_name": "35411 - Тахиаташское ЭСП",
+        "region_code": "35411",
+        "filter": "35"
+    },
+    {
+        "region_name": "35230 - Тахтакупырское ЭСП",
+        "region_code": "35230",
+        "filter": "35"
+    },
+    {
+        "region_name": "35233 - Турткульское ЭСП",
+        "region_code": "35233",
+        "filter": "35"
+    },
+    {
+        "region_name": "35236 - Ходжейлийское ЭСП",
+        "region_code": "35236",
+        "filter": "35"
+    },
+    {
+        "region_name": "35240 - Чимбайское ЭСП",
+        "region_code": "35240",
+        "filter": "35"
+    },
+    {
+        "region_name": "35243 - Шуманайское ЭСП",
+        "region_code": "35243",
+        "filter": "35"
+    },
+    {
+        "region_name": "35250 - Элликкалинское ЭСП",
+        "region_code": "35250",
+        "filter": "35"
+    },
+    {
+        "region_name": "122 - г. Андижан",
+        "region_code": "122",
+        "filter": "7"
+    },
+    {
+        "region_name": "123 - Андижанский район",
+        "region_code": "123",
+        "filter": "7"
+    },
+    {
+        "region_name": "124 - г. Асака ",
+        "region_code": "124",
+        "filter": "7"
+    },
+    {
+        "region_name": "125 - Асакинский район",
+        "region_code": "125",
+        "filter": "7"
+    },
+    {
+        "region_name": "126 - Баликчинский район",
+        "region_code": "126",
+        "filter": "7"
+    },
+    {
+        "region_name": "127 - Бузский район",
+        "region_code": "127",
+        "filter": "7"
+    },
+    {
+        "region_name": "128 - Булакбашинский район",
+        "region_code": "128",
+        "filter": "7"
+    },
+    {
+        "region_name": "129 - Жалалкудукский район",
+        "region_code": "129",
+        "filter": "7"
+    },
+    {
+        "region_name": "130 - Избасканский район",
+        "region_code": "130",
+        "filter": "7"
+    },
+    {
+        "region_name": "133 - г.Карасу",
+        "region_code": "133",
+        "filter": "7"
+    },
+    {
+        "region_name": "131 - Кургантепинский район",
+        "region_code": "131",
+        "filter": "7"
+    },
+    {
+        "region_name": "134 - Мархаматский район",
+        "region_code": "134",
+        "filter": "7"
+    },
+    {
+        "region_name": "135 - Олтинкулский район",
+        "region_code": "135",
+        "filter": "7"
+    },
+    {
+        "region_name": "136 - Пахтабадский район",
+        "region_code": "136",
+        "filter": "7"
+    },
+    {
+        "region_name": "137 - Улугнарский район",
+        "region_code": "137",
+        "filter": "7"
+    },
+    {
+        "region_name": "132 - г.Ханабад",
+        "region_code": "132",
+        "filter": "7"
+    },
+    {
+        "region_name": "138 - Хужабадский район",
+        "region_code": "138",
+        "filter": "7"
+    },
+    {
+        "region_name": "139 - Шахриханский район",
+        "region_code": "139",
+        "filter": "7"
+    },
+    {
+        "region_name": "172 - г. Бухара",
+        "region_code": "172",
+        "filter": "11"
+    },
+    {
+        "region_name": "177 - Бухарский район",
+        "region_code": "177",
+        "filter": "11"
+    },
+    {
+        "region_name": "179 - Вобкентский район",
+        "region_code": "179",
+        "filter": "11"
+    },
+    {
+        "region_name": "176 - Гиждуванский район",
+        "region_code": "176",
+        "filter": "11"
+    },
+    {
+        "region_name": "178 - Жондорский район",
+        "region_code": "178",
+        "filter": "11"
+    },
+    {
+        "region_name": "175 - Каганский район",
+        "region_code": "175",
+        "filter": "11"
+    },
+    {
+        "region_name": "173 - г. Каган",
+        "region_code": "173",
+        "filter": "11"
+    },
+    {
+        "region_name": "184 - Каравулбазарский район",
+        "region_code": "184",
+        "filter": "11"
+    },
+    {
+        "region_name": "182 - Каракулский район",
+        "region_code": "182",
+        "filter": "11"
+    },
+    {
+        "region_name": "183 - Олотский район",
+        "region_code": "183",
+        "filter": "11"
+    },
+    {
+        "region_name": "180 - Пешкунский район",
+        "region_code": "180",
+        "filter": "11"
+    },
+    {
+        "region_name": "174 - Ромитанский район",
+        "region_code": "174",
+        "filter": "11"
+    },
+    {
+        "region_name": "181 - Шафирканский район",
+        "region_code": "181",
+        "filter": "11"
+    },
+    {
+        "region_name": "063 - Арнасайский район",
+        "region_code": "063",
+        "filter": "4"
+    },
+    {
+        "region_name": "059 - Бахмалский район",
+        "region_code": "059",
+        "filter": "4"
+    },
+    {
+        "region_name": "058 - Галлааралский район",
+        "region_code": "058",
+        "filter": "4"
+    },
+    {
+        "region_name": "056 - г. Джизак",
+        "region_code": "056",
+        "filter": "4"
+    },
+    {
+        "region_name": "057 - район Шарофа Рашидова",
+        "region_code": "057",
+        "filter": "4"
+    },
+    {
+        "region_name": "062 - Дустликский район",
+        "region_code": "062",
+        "filter": "4"
+    },
+    {
+        "region_name": "066 - Заминский район",
+        "region_code": "066",
+        "filter": "4"
+    },
+    {
+        "region_name": "065 - Зарбдорский район",
+        "region_code": "065",
+        "filter": "4"
+    },
+    {
+        "region_name": "061 - Зафарабадский район",
+        "region_code": "061",
+        "filter": "4"
+    },
+    {
+        "region_name": "064 - Мирзачулский район",
+        "region_code": "064",
+        "filter": "4"
+    },
+    {
+        "region_name": "060 - Пахтакарский район",
+        "region_code": "060",
+        "filter": "4"
+    },
+    {
+        "region_name": "068 - Форишский район",
+        "region_code": "068",
+        "filter": "4"
+    },
+    {
+        "region_name": "067 - Даштабадский район",
+        "region_code": "067",
+        "filter": "4"
+    },
+    {
+        "region_name": "069 - Янгиабадский район",
+        "region_code": "069",
+        "filter": "4"
+    },
+    {
+        "region_name": "147 - Гузарский район",
+        "region_code": "147",
+        "filter": "9"
+    },
+    {
+        "region_name": "154 - Дехканабадский район",
+        "region_code": "154",
+        "filter": "9"
+    },
+    {
+        "region_name": "146 - Камашинский район",
+        "region_code": "146",
+        "filter": "9"
+    },
+    {
+        "region_name": "141 - г. Карши",
+        "region_code": "141",
+        "filter": "9"
+    },
+    {
+        "region_name": "148 - Каршинский район",
+        "region_code": "148",
+        "filter": "9"
+    },
+    {
+        "region_name": "150 - Касанский район",
+        "region_code": "150",
+        "filter": "9"
+    },
+    {
+        "region_name": "151 - Касбинский район",
+        "region_code": "151",
+        "filter": "9"
+    },
+    {
+        "region_name": "143 - Китабский район",
+        "region_code": "143",
+        "filter": "9"
+    },
+    {
+        "region_name": "152 - Миришкарский район",
+        "region_code": "152",
+        "filter": "9"
+    },
+    {
+        "region_name": "153 - Мубаракский район",
+        "region_code": "153",
+        "filter": "9"
+    },
+    {
+        "region_name": "149 - Нишанский район",
+        "region_code": "149",
+        "filter": "9"
+    },
+    {
+        "region_name": "145 - Чиракчинский район",
+        "region_code": "145",
+        "filter": "9"
+    },
+    {
+        "region_name": "142 - Шахрисабзский район",
+        "region_code": "142",
+        "filter": "9"
+    },
+    {
+        "region_name": "155 - г. Шахрисабз",
+        "region_code": "155",
+        "filter": "9"
+    },
+    {
+        "region_name": "144 - Яккабагский район",
+        "region_code": "144",
+        "filter": "9"
+    },
+    {
+        "region_name": "185 - г. Газган",
+        "region_code": "185",
+        "filter": "12"
+    },
+    {
+        "region_name": "186 - г. Зарафшан",
+        "region_code": "186",
+        "filter": "12"
+    },
+    {
+        "region_name": "189 - Канимехский район",
+        "region_code": "189",
+        "filter": "12"
+    },
+    {
+        "region_name": "187 - Карманинский район",
+        "region_code": "187",
+        "filter": "12"
+    },
+    {
+        "region_name": "188 - Кизилтепинский район",
+        "region_code": "188",
+        "filter": "12"
+    },
+    {
+        "region_name": "190 - г. Навои",
+        "region_code": "190",
+        "filter": "12"
+    },
+    {
+        "region_name": "191 - Навбахарский район",
+        "region_code": "191",
+        "filter": "12"
+    },
+    {
+        "region_name": "192 - Нуротинский район",
+        "region_code": "192",
+        "filter": "12"
+    },
+    {
+        "region_name": "193 - Хатирчинский район",
+        "region_code": "193",
+        "filter": "12"
+    },
+    {
+        "region_name": "194 - Тамдынский район",
+        "region_code": "194",
+        "filter": "12"
+    },
+    {
+        "region_name": "229 - Учкудукский район",
+        "region_code": "229",
+        "filter": "12"
+    },
+    {
+        "region_name": "110 - Касансайский район",
+        "region_code": "110",
+        "filter": "8"
+    },
+    {
+        "region_name": "117 - Мингбулакский район",
+        "region_code": "117",
+        "filter": "8"
+    },
+    {
+        "region_name": "108 - г. Наманган",
+        "region_code": "108",
+        "filter": "8"
+    },
+    {
+        "region_name": "109 - г. Наманган (2 база)",
+        "region_code": "109",
+        "filter": "8"
+    },
+    {
+        "region_name": "118 - Наманганский район",
+        "region_code": "118",
+        "filter": "8"
+    },
+    {
+        "region_name": "111 - Наринский район",
+        "region_code": "111",
+        "filter": "8"
+    },
+    {
+        "region_name": "116 - Папский район",
+        "region_code": "116",
+        "filter": "8"
+    },
+    {
+        "region_name": "115 - Туракурганский район",
+        "region_code": "115",
+        "filter": "8"
+    },
+    {
+        "region_name": "119 - Уйчинский район",
+        "region_code": "119",
+        "filter": "8"
+    },
+    {
+        "region_name": "112 - Учкурганский район",
+        "region_code": "112",
+        "filter": "8"
+    },
+    {
+        "region_name": "113 - Чартакский район",
+        "region_code": "113",
+        "filter": "8"
+    },
+    {
+        "region_name": "114 - Чустский район",
+        "region_code": "114",
+        "filter": "8"
+    },
+    {
+        "region_name": "120 - Янгикурганский район",
+        "region_code": "120",
+        "filter": "8"
+    },
+    {
+        "region_name": "073 - Булунгурский район",
+        "region_code": "073",
+        "filter": "3"
+    },
+    {
+        "region_name": "228 - Гузалкентский район",
+        "region_code": "228",
+        "filter": "3"
+    },
+    {
+        "region_name": "074 - Жамбайский район",
+        "region_code": "074",
+        "filter": "3"
+    },
+    {
+        "region_name": "076 - Иштиханский район",
+        "region_code": "076",
+        "filter": "3"
+    },
+    {
+        "region_name": "082 - Каттакурганский район",
+        "region_code": "082",
+        "filter": "3"
+    },
+    {
+        "region_name": "077 - г. Каттакургон",
+        "region_code": "077",
+        "filter": "3"
+    },
+    {
+        "region_name": "086 - Кушрабадский район",
+        "region_code": "086",
+        "filter": "3"
+    },
+    {
+        "region_name": "080 - Нарпайский район",
+        "region_code": "080",
+        "filter": "3"
+    },
+    {
+        "region_name": "078 - Нурабадский район",
+        "region_code": "078",
+        "filter": "3"
+    },
+    {
+        "region_name": "079 - Окдаринский район",
+        "region_code": "079",
+        "filter": "3"
+    },
+    {
+        "region_name": "081 - Пайарикский район",
+        "region_code": "081",
+        "filter": "3"
+    },
+    {
+        "region_name": "075 - Пастаргомский район",
+        "region_code": "075",
+        "filter": "3"
+    },
+    {
+        "region_name": "083 - Пахтачинский район",
+        "region_code": "083",
+        "filter": "3"
+    },
+    {
+        "region_name": "071 - г. Самарканд",
+        "region_code": "071",
+        "filter": "3"
+    },
+    {
+        "region_name": "072 - Самаркандский район",
+        "region_code": "072",
+        "filter": "3"
+    },
+    {
+        "region_name": "084 - Тайлокский район",
+        "region_code": "084",
+        "filter": "3"
+    },
+    {
+        "region_name": "085 - Ургутский район",
+        "region_code": "085",
+        "filter": "3"
+    },
+    {
+        "region_name": "087 - Челакский район",
+        "region_code": "087",
+        "filter": "3"
+    },
+    {
+        "region_name": "165 - Алтинсайский район",
+        "region_code": "165",
+        "filter": "10"
+    },
+    {
+        "region_name": "156 - Ангарский район",
+        "region_code": "156",
+        "filter": "10"
+    },
+    {
+        "region_name": "157 - Байсунский район",
+        "region_code": "157",
+        "filter": "10"
+    },
+    {
+        "region_name": "158 - Бандыханский район",
+        "region_code": "158",
+        "filter": "10"
+    },
+    {
+        "region_name": "159 - г. Денав",
+        "region_code": "159",
+        "filter": "10"
+    },
+    {
+        "region_name": "160 - Денавский район",
+        "region_code": "160",
+        "filter": "10"
+    },
+    {
+        "region_name": "161 - Жаркурганский район",
+        "region_code": "161",
+        "filter": "10"
+    },
+    {
+        "region_name": "162 - Кизирикский район",
+        "region_code": "162",
+        "filter": "10"
+    },
+    {
+        "region_name": "163 - Кумкурганский район",
+        "region_code": "163",
+        "filter": "10"
+    },
+    {
+        "region_name": "164 - Музрабадский район",
+        "region_code": "164",
+        "filter": "10"
+    },
+    {
+        "region_name": "166 - Сариасийский район",
+        "region_code": "166",
+        "filter": "10"
+    },
+    {
+        "region_name": "167 - г. Термез",
+        "region_code": "167",
+        "filter": "10"
+    },
+    {
+        "region_name": "168 - Термезский район",
+        "region_code": "168",
+        "filter": "10"
+    },
+    {
+        "region_name": "171 - Узунский район",
+        "region_code": "171",
+        "filter": "10"
+    },
+    {
+        "region_name": "169 - Шерабадский район",
+        "region_code": "169",
+        "filter": "10"
+    },
+    {
+        "region_name": "170 - Шурчинский район",
+        "region_code": "170",
+        "filter": "10"
+    },
+    {
+        "region_name": "047 - Акалтинский район",
+        "region_code": "047",
+        "filter": "5"
+    },
+    {
+        "region_name": "051 - г. Бахт",
+        "region_code": "051",
+        "filter": "5"
+    },
+    {
+        "region_name": "048 - Баявутский район",
+        "region_code": "048",
+        "filter": "5"
+    },
+    {
+        "region_name": "044 - г. Гулистан",
+        "region_code": "044",
+        "filter": "5"
+    },
+    {
+        "region_name": "049 - Гулистанский район",
+        "region_code": "049",
+        "filter": "5"
+    },
+    {
+        "region_name": "054 - Мирзаабадский район",
+        "region_code": "054",
+        "filter": "5"
+    },
+    {
+        "region_name": "052 - Сайхунабадский район",
+        "region_code": "052",
+        "filter": "5"
+    },
+    {
+        "region_name": "050 - Сырдаринский район",
+        "region_code": "050",
+        "filter": "5"
+    },
+    {
+        "region_name": "053 - Хавасский район",
+        "region_code": "053",
+        "filter": "5"
+    },
+    {
+        "region_name": "046 - г. Ширин",
+        "region_code": "046",
+        "filter": "5"
+    },
+    {
+        "region_name": "045 - г. Янгиер",
+        "region_code": "045",
+        "filter": "5"
+    },
+    {
+        "region_name": "226 - Сардобинский район",
+        "region_code": "226",
+        "filter": "5"
+    },
+    {
+        "region_name": "006 - Алмазарский район",
+        "region_code": "006",
+        "filter": "1"
+    },
+    {
+        "region_name": "013 - Бектемирский район",
+        "region_code": "013",
+        "filter": "1"
+    },
+    {
+        "region_name": "004 - М. Улугбекский район",
+        "region_code": "004",
+        "filter": "1"
+    },
+    {
+        "region_name": "003 - Мирабадский район",
+        "region_code": "003",
+        "filter": "1"
+    },
+    {
+        "region_name": "010 - Сергелийский район",
+        "region_code": "010",
+        "filter": "1"
+    },
+    {
+        "region_name": "009 - Учтепинский район",
+        "region_code": "009",
+        "filter": "1"
+    },
+    {
+        "region_name": "008 - Чиланзарский район",
+        "region_code": "008",
+        "filter": "1"
+    },
+    {
+        "region_name": "012 - Шайхантаурский район",
+        "region_code": "012",
+        "filter": "1"
+    },
+    {
+        "region_name": "007 - Юнусабадский район",
+        "region_code": "007",
+        "filter": "1"
+    },
+    {
+        "region_name": "005 - Яккасарайский район",
+        "region_code": "005",
+        "filter": "1"
+    },
+    {
+        "region_name": "011 - Яшнабадский район",
+        "region_code": "011",
+        "filter": "1"
+    },
+    {
+        "region_name": "231 - Янгихаётский район",
+        "region_code": "231",
+        "filter": "1"
+    },
+    {
+        "region_name": "026 - Аккурганский район",
+        "region_code": "026",
+        "filter": "2"
+    },
+    {
+        "region_name": "023 - Алмалыкский район",
+        "region_code": "023",
+        "filter": "2"
+    },
+    {
+        "region_name": "024 - Ангренский район",
+        "region_code": "024",
+        "filter": "2"
+    },
+    {
+        "region_name": "025 - Ахангаранский район",
+        "region_code": "025",
+        "filter": "2"
+    },
+    {
+        "region_name": "021 - г. Ахангаран",
+        "region_code": "021",
+        "filter": "2"
+    },
+    {
+        "region_name": "027 - г. Бекабад",
+        "region_code": "027",
+        "filter": "2"
+    },
+    {
+        "region_name": "030 - Бекабадский район",
+        "region_code": "030",
+        "filter": "2"
+    },
+    {
+        "region_name": "028 - Букинский район",
+        "region_code": "028",
+        "filter": "2"
+    },
+    {
+        "region_name": "029 - Бустанлыкский район",
+        "region_code": "029",
+        "filter": "2"
+    },
+    {
+        "region_name": "032 - Ташкентский район (Келес)",
+        "region_code": "032",
+        "filter": "2"
+    },
+    {
+        "region_name": "031 - Зангиатинский район (Эшонгузар)",
+        "region_code": "031",
+        "filter": "2"
+    },
+    {
+        "region_name": "033 - Кибрайский район",
+        "region_code": "033",
+        "filter": "2"
+    },
+    {
+        "region_name": "036 - Куйичирчикский (янгибазар) район",
+        "region_code": "036",
+        "filter": "2"
+    },
+    {
+        "region_name": "022 - г. Нурафшан",
+        "region_code": "022",
+        "filter": "2"
+    },
+    {
+        "region_name": "034 - Паркентский район",
+        "region_code": "034",
+        "filter": "2"
+    },
+    {
+        "region_name": "035 - Пискентский район",
+        "region_code": "035",
+        "filter": "2"
+    },
+    {
+        "region_name": "037 - Уртачирчикский (туйтепа) район",
+        "region_code": "037",
+        "filter": "2"
+    },
+    {
+        "region_name": "039 - Чиназский район",
+        "region_code": "039",
+        "filter": "2"
+    },
+    {
+        "region_name": "038 - Чирчикский район(г. Чирчик)",
+        "region_code": "038",
+        "filter": "2"
+    },
+    {
+        "region_name": "040 - Юкоричирчикский район",
+        "region_code": "040",
+        "filter": "2"
+    },
+    {
+        "region_name": "041 - Янгиюльский район",
+        "region_code": "041",
+        "filter": "2"
+    },
+    {
+        "region_name": "042 - г. Красногорск",
+        "region_code": "042",
+        "filter": "2"
+    },
+    {
+        "region_name": "043 - г. Янгиюль",
+        "region_code": "043",
+        "filter": "2"
+    },
+    {
+        "region_name": "097 - Алтиарикский район",
+        "region_code": "097",
+        "filter": "6"
+    },
+    {
+        "region_name": "098 - Куштепаевский район",
+        "region_code": "098",
+        "filter": "6"
+    },
+    {
+        "region_name": "092 - Багдадский район",
+        "region_code": "092",
+        "filter": "6"
+    },
+    {
+        "region_name": "093 - Бешарикский район",
+        "region_code": "093",
+        "filter": "6"
+    },
+    {
+        "region_name": "095 - Дангаринский район",
+        "region_code": "095",
+        "filter": "6"
+    },
+    {
+        "region_name": "096 - Езъеванский район",
+        "region_code": "096",
+        "filter": "6"
+    },
+    {
+        "region_name": "091 - г. Коканд",
+        "region_code": "091",
+        "filter": "6"
+    },
+    {
+        "region_name": "090 - г. Кувасай",
+        "region_code": "090",
+        "filter": "6"
+    },
+    {
+        "region_name": "106 - Кувынский район",
+        "region_code": "106",
+        "filter": "6"
+    },
+    {
+        "region_name": "088 - г. Маргилан",
+        "region_code": "088",
+        "filter": "6"
+    },
+    {
+        "region_name": "099 - Риштанский район",
+        "region_code": "099",
+        "filter": "6"
+    },
+    {
+        "region_name": "100 - Сохский район",
+        "region_code": "100",
+        "filter": "6"
+    },
+    {
+        "region_name": "101 - Ташлакский район",
+        "region_code": "101",
+        "filter": "6"
+    },
+    {
+        "region_name": "105 - Узбекистанский район",
+        "region_code": "105",
+        "filter": "6"
+    },
+    {
+        "region_name": "102 - Уч-куприкский район",
+        "region_code": "102",
+        "filter": "6"
+    },
+    {
+        "region_name": "089 - г. Фергана",
+        "region_code": "089",
+        "filter": "6"
+    },
+    {
+        "region_name": "103 - Ферганский район",
+        "region_code": "103",
+        "filter": "6"
+    },
+    {
+        "region_name": "104 - Фуркатский район",
+        "region_code": "104",
+        "filter": "6"
+    },
+    {
+        "region_name": "094 - Янгикурганский район",
+        "region_code": "094",
+        "filter": "6"
+    },
+    {
+        "region_name": "200 - Багатский район",
+        "region_code": "200",
+        "filter": "14"
+    },
+    {
+        "region_name": "203 - Гурланский район",
+        "region_code": "203",
+        "filter": "14"
+    },
+    {
+        "region_name": "204 - Кушкупирский район",
+        "region_code": "204",
+        "filter": "14"
+    },
+    {
+        "region_name": "206 - Питнакский район",
+        "region_code": "206",
+        "filter": "14"
+    },
+    {
+        "region_name": "230 - Тупроккалинский район",
+        "region_code": "230",
+        "filter": "14"
+    },
+    {
+        "region_name": "195 - г. Ургенч",
+        "region_code": "195",
+        "filter": "14"
+    },
+    {
+        "region_name": "196 - Ургенчский район",
+        "region_code": "196",
+        "filter": "14"
+    },
+    {
+        "region_name": "205 - Хазараспский район",
+        "region_code": "205",
+        "filter": "14"
+    },
+    {
+        "region_name": "198 - Ханкайский район",
+        "region_code": "198",
+        "filter": "14"
+    },
+    {
+        "region_name": "197 - Хивинский район",
+        "region_code": "197",
+        "filter": "14"
+    },
+    {
+        "region_name": "207 - г. Хива",
+        "region_code": "207",
+        "filter": "14"
+    },
+    {
+        "region_name": "199 - Шаватский район",
+        "region_code": "199",
+        "filter": "14"
+    },
+    {
+        "region_name": "201 - Янгиарикский район",
+        "region_code": "201",
+        "filter": "14"
+    },
+    {
+        "region_name": "202 - Янгибазарский район",
+        "region_code": "202",
+        "filter": "14"
+    },
+    {
+        "region_name": "220 - Амурдарьнский район",
+        "region_code": "220",
+        "filter": "13"
+    },
+    {
+        "region_name": "223 - Берунийский район",
+        "region_code": "223",
+        "filter": "13"
+    },
+    {
+        "region_name": "216 - Канлыкульский район",
+        "region_code": "216",
+        "filter": "13"
+    },
+    {
+        "region_name": "212 - Караузякский район",
+        "region_code": "212",
+        "filter": "13"
+    },
+    {
+        "region_name": "218 - Кунградский район",
+        "region_code": "218",
+        "filter": "13"
+    },
+    {
+        "region_name": "219 - Муйнакский район",
+        "region_code": "219",
+        "filter": "13"
+    },
+    {
+        "region_name": "208 - г. Нукус",
+        "region_code": "208",
+        "filter": "13"
+    },
+    {
+        "region_name": "209 - Нукусский район",
+        "region_code": "209",
+        "filter": "13"
+    },
+    {
+        "region_name": "217 - Тахиаташский район",
+        "region_code": "217",
+        "filter": "13"
+    },
+    {
+        "region_name": "213 - Тахтакупирский район",
+        "region_code": "213",
+        "filter": "13"
+    },
+    {
+        "region_name": "221 - Турткульский район",
+        "region_code": "221",
+        "filter": "13"
+    },
+    {
+        "region_name": "214 - Хужайлинский район",
+        "region_code": "214",
+        "filter": "13"
+    },
+    {
+        "region_name": "211 - Чимбайский район",
+        "region_code": "211",
+        "filter": "13"
+    },
+    {
+        "region_name": "215 - Шуманайский район",
+        "region_code": "215",
+        "filter": "13"
+    },
+    {
+        "region_name": "222 - Элликкалинский район",
+        "region_code": "222",
+        "filter": "13"
+    },
+    {
+        "region_name": "224 - Территория Бозатау",
+        "region_code": "224",
+        "filter": "13"
+    },
+    {
+        "region_name": "225 - г. Халкабад",
+        "region_code": "225",
+        "filter": "13"
+    }
+]
